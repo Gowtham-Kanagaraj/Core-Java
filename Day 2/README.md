@@ -1,4 +1,5 @@
 # Dissecting Java program
+[![ Dissecting Java program](https://github.com/Gowtham-Kanagaraj/Core-Java/blob/main/images/java_disect.jpg)](https://www.youtube.com/watch?v=N3Ll1806pdA")
 
 ## what is the difference between JRE and JDK
 
@@ -107,6 +108,7 @@ In the Java programming language, a static method is a method that belongs to a 
 
 Static methods are often used for utility or helper functions that do not depend on the state of an object. They can be called directly from the class, rather than from an object of the class.
 
+![Static Keyword](https://github.com/Gowtham-Kanagaraj/Core-Java/blob/main/images/static%20key%20word.jpg)
 
 In the above hello world's  example, the main method is a static method that prints hello world in the console.
 
@@ -131,6 +133,8 @@ It is important to note that the main method must be declared as void, as this i
 Yes, in the Java programming language, the main method must be defined inside a public class.
 
 The main method is the entry point for a Java application and is called by the Java runtime system when the program starts. In order to be called, the main method must be defined inside a class, and that class must be declared as public.
+
+![public Keyword](https://github.com/Gowtham-Kanagaraj/Core-Java/blob/main/images/public%20key%20word.jpg)
 
 In the above hello-world example, the main method is defined inside the HelloWorld class, which is declared as public. This means that the main method can be accessed by the Java runtime system and the program can be executed.
 
