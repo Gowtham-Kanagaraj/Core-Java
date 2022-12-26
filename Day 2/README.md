@@ -1,6 +1,8 @@
 # Dissecting Java program
 [![ Dissecting Java program](https://github.com/Gowtham-Kanagaraj/Core-Java/blob/main/images/java_disect.jpg)](https://www.youtube.com/watch?v=N3Ll1806pdA")
 
+click above image to watch youtube lesson by - Suraj
+
 ## what is the difference between JRE and JDK
 
 Java Runtime Environment (JRE) is a software package that contains what is needed to run a Java program. It includes the Java Virtual Machine (JVM), the Java class libraries, and other supporting files. JRE is used to run Java programs, but not to develop them.
